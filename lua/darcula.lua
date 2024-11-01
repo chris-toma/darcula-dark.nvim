@@ -577,7 +577,7 @@ M.configure_highlights = function()
   hi(0, "TSType", { fg = color._66 })
 
   hi(0, "TSTypeDefinition", { fg = color.grey })
-  hi(0, "TSTypeBuiltin", { fg = color.burnt_orange, italic = true })
+  hi(0, "TSTypeBuiltin", { fg = color.burnt_orange })
   hi(0, "TSURI", { fg = color.light_brown, underline = true })
   hi(0, "TSUnderline", { fg = color.dark, underline = true })
   hi(0, "TSVariable", { fg = color.grey })
