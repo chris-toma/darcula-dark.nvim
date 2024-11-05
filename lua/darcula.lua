@@ -753,22 +753,22 @@ M.configure_highlights = function()
   -- Terminal colors
   local g = vim.g
 
-  g.terminal_color_0 = color.dark
-  g.terminal_color_1 = color.red
-  g.terminal_color_2 = color.light_olive_green
-  g.terminal_color_3 = color.golden_yellow
-  g.terminal_color_4 = color.light_blue
-  g.terminal_color_5 = color.pale_gold
-  g.terminal_color_6 = color.bright_sky
-  g.terminal_color_7 = color.very_light_gray
-  g.terminal_color_8 = color.medium_gray
-  g.terminal_color_9 = color.red
-  g.terminal_color_10 = color.light_olive_green
-  g.terminal_color_11 = color.golden_yellow
-  g.terminal_color_12 = color.light_blue
-  g.terminal_color_13 = color.pale_gold
-  g.terminal_color_14 = color.bright_sky
-  g.terminal_color_15 = color.very_light_gray
+  -- g.terminal_color_0 = color.dark
+  -- g.terminal_color_1 = color.red
+  -- g.terminal_color_2 = color.light_olive_green
+  -- g.terminal_color_3 = color.golden_yellow
+  -- g.terminal_color_4 = color.light_blue
+  -- g.terminal_color_5 = color.pale_gold
+  -- g.terminal_color_6 = color.bright_sky
+  -- g.terminal_color_7 = color.very_light_gray
+  -- g.terminal_color_8 = color.medium_gray
+  -- g.terminal_color_9 = color.red
+  -- g.terminal_color_10 = color.light_olive_green
+  -- g.terminal_color_11 = color.golden_yellow
+  -- g.terminal_color_12 = color.light_blue
+  -- g.terminal_color_13 = color.pale_gold
+  -- g.terminal_color_14 = color.bright_sky
+  -- g.terminal_color_15 = color.very_light_gray
 end
 
 return M
